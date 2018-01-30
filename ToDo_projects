@@ -12,10 +12,10 @@ Lista de Próximos projetos com Arduino:
 http://www.arena-maker.com/products/projeto-12-alarme-com-sensor-de-presenca-pir/
 
 - Código morse Arduino (http://blog.boxelectronica.com/2015/08/28/sinalizador-de-codigo-morse-s-o-s/) 
-- Controlando LEDs com um Potenciômetro (http://furini.blog.br/?p=117)
 - Cubo de LED 3x3x3 com arduino (http://furini.blog.br/?p=374)
 
 - LED 7 segmentos (http://arduinoagora.blogspot.com.br/2014/03/projeto-15-led-7-segmentos.html)
+[8 resistores de 270 Ω / 1 resistor 330Ω / 1 resistor 10KΩ / 1 resistor de 220Ω]
   https://www.arduinoecia.com.br/2013/07/display-7-segmentos.html
   http://www.butecopensource.org/conectando-um-display-de-7-segmentos-no-arduino/
   https://www.filipeflop.com/blog/como-construir-um-relogio-com-arduino/
@@ -34,14 +34,17 @@ http://www.arena-maker.com/products/projeto-12-alarme-com-sensor-de-presenca-pir
  
  - Projetos com Potenciometro
  http://squids.com.br/arduino/index.php/projetos-arduino/projetos-basicos/82-projeto-16-sequencia-de-leds-controlados-por-potenciometro
- 5 Resistores  100 Ω
- 5 Resistores  200 Ω
+ [10 resistores  100Ω / 5 resistores  200 Ω / 5 resistores 330Ω]
  - Efeito interativo de iluminação sequencial com LEDs (http://arduinoagora.blogspot.com.br/2014/02/projeto-6-efeito-interativo-de.html)
- 10 resitores de 100 ohms
- 
+ - Controlando LEDs com um Potenciômetro (http://furini.blog.br/?p=117)
+  
  
  
 Site de projetos:
 http://arduino.labdegaragem.com/
 http://squids.com.br/arduino/index.php/projetos-arduino/projetos-basicos
 https://create.arduino.cc/
+*** https://create.arduino.cc/projecthub/mjrobot/physical-computing-scratch-for-arduino-72661a
+*** https://create.arduino.cc/projecthub/liss/happy-birthday-melody-on-arduino-nano-with-3-way-polyphony-c80c31
+*** https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b
+*** https://create.arduino.cc/projecthub/Blue_jack/measure-your-reaction-time-d68f90
