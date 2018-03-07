@@ -1,5 +1,13 @@
 http://www.audioacustica.com.br/exemplos/Valores_Resistores/Calculadora_Ohms_Resistor.html
 
+Projeto com modulo HC 06
+- http://buildbot.com.br/blog/configuracao-do-modulo-bluetooth-hc-06-com-arduino/
+- http://labdegaragem.com/forum/topics/tutorial-controlando-o-arduino-via-bluetooth
+- http://arduinomais.blogspot.com.br/2014/06/alterar-nome-e-senha-em-modulo-bluetooth.html
+- http://blog.eletrogate.com/modulos-bluetooth-hc05-e-hc06-para-comunicacao-com-dispositivos-moveis-com-arduino/
+- 
+
+
 Lista de Projetos já concluídos com Arduino: 
 - Controle LED (http://fatecjd.edu.br/fatecino/arq_projetos/02-Projeto-1-LED.pdf)
 - Semáforo LED (http://fatecjd.edu.br/fatecino/arq_projetos/03-Desafio-1-Semaforo.pdf)
