@@ -31,14 +31,15 @@ http://www.arena-maker.com/products/projeto-12-alarme-com-sensor-de-presenca-pir
 - http://squids.com.br/arduino/index.php/projetos-arduino/projetos-basicos/82-projeto-16-sequencia-de-leds-controlados-por-potenciometro
  - Efeito interativo de iluminação sequencial com LEDs (http://arduinoagora.blogspot.com.br/2014/02/projeto-6-efeito-interativo-de.html)
  - Controlando LEDs com um Potenciômetro (http://furini.blog.br/?p=117)
+ - https://www.filipeflop.com/blog/como-conectar-display-oled-arduino/
+ - http://arduino.labdegaragem.com/Guia_preview/EK_13_cont_binario.html
+ - https://eletricidadesemsegredosblog.wordpress.com/2017/09/19/programa-basico-para-teste-do-sensor-dht11-utilizando-monitor-serial/
+
  
 Lista de Próximos projetos com Arduino:
 
 - https://www.instructables.com/id/Arduino-Thermometer-1/
-- https://www.instructables.com/id/Arduinonano-Clap-Switch/
 - http://arduino.labdegaragem.com/Guia_preview/SPK_9_cores_ldr.html
-- http://arduino.labdegaragem.com/Guia_preview/SMK_10_piano.html
-- http://arduino.labdegaragem.com/Guia_preview/EK_13_cont_binario.html
 - https://www.filipeflop.com/blog/como-construir-um-relogio-com-arduino/
 - https://create.arduino.cc/projecthub/SAnwandter1/programming-4-digit-7-segment-led-display-2d33f8
 - https://create.arduino.cc/projecthub/glowascii/neopixel-leds-arduino-basics-126d1a
@@ -46,7 +47,6 @@ Lista de Próximos projetos com Arduino:
 - https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84
 - https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b
 - https://create.arduino.cc/projecthub/trduunze/temperature-sensor-36c420
-- https://create.arduino.cc/projecthub/Salmanfarisvp/arduino-blink-with-node-js-9f6466
 - https://create.arduino.cc/projecthub/Noshirt/arduino-keyboard-faea5d
 - https://create.arduino.cc/projecthub/patrick3coffee/charlie-chaser-e34ce5
 - https://create.arduino.cc/projecthub/mitov/read-multiple-ds1820-ds18s20-maxim-one-wire-thermometers-3fa8b5
@@ -62,25 +62,22 @@ Lista de Próximos projetos com Arduino:
 - http://tecnicolinux.blogspot.com.br/2014/03/arduino-drum-v-circuito-arduino-piezo.html
 - https://www.arduinoecia.com.br/2014/05/sensor-de-vibracao-sw-18010p-arduino.html
 - http://www.dobitaobyte.com.br/modulo-sensor-de-vibracao-com-arduino-esp8266-digispark-etc/
-- https://www.filipeflop.com/blog/sensor-de-chama-com-arduino/
-- http://tecnodomos.blogspot.com.br/2015/08/sensor-de-chamas-com-arduino.html
 - https://www.filipeflop.com/blog/relogio-rtc-ds1307-arduino/
 
-- https://www.filipeflop.com/blog/como-conectar-display-oled-arduino/
-https://bintray.com/olikraus/u8glib/Arduino
-
-- http://squids.com.br/arduino/index.php/projetos-arduino/projetos-basicos/78-projeto-15a-efeito-interativo-de-iluminacao-sequencial-com-barra-grafica
-- http://www.bosontreinamentos.com.br/eletronica/arduino/como-acionar-um-led-bargraph-com-arduino/
-- http://arduinomania.com/posts/arduino-knight-rider-circuit-using-led-bargraph/
-
+URGENTE !!!!!
+- https://www.filipeflop.com/blog/sensor-de-chama-com-arduino/
+- http://tecnodomos.blogspot.com.br/2015/08/sensor-de-chamas-com-arduino.html
 - https://eletricidadesemsegredosblog.wordpress.com/2017/09/06/sensor-de-radiacao-infravermelha-ir-de-luz-solar-ou-de-chama-com-arduino/
-- https://eletricidadesemsegredosblog.wordpress.com/2017/09/19/programa-basico-para-teste-do-sensor-dht11-utilizando-monitor-serial/
-- https://eletricidadesemsegredosblog.wordpress.com/2017/10/09/sensor-de-umidade-e-temperatura-com-comunicacao-bluetooth/
+- http://arduinomania.com/posts/arduino-knight-rider-circuit-using-led-bargraph/
+- http://squids.com.br/arduino/index.php/projetos-arduino/projetos-basicos/78-projeto-15a-efeito-interativo-de-iluminacao-sequencial-com-barra-grafica
+- http://blog.usinainfo.com.br/modulo-sensor-de-som-para-arduino/
+- http://www.facacomarduino.info/projeto-45-acendendo-led-com-sensor-de-som.html
+***************************************************************
+
+- - https://eletricidadesemsegredosblog.wordpress.com/2017/10/09/sensor-de-umidade-e-temperatura-com-comunicacao-bluetooth/
 - https://eletricidadesemsegredosblog.wordpress.com/2017/10/05/sensor-de-estacionamento-com-display-oled-ssd-1306/
-- http://arduino-er.blogspot.com.br/2015/05/temperature-humidity-monitor-using.html
 
 - https://www.filipeflop.com/blog/como-construir-um-relogio-com-arduino/
-- https://www.arduinoecia.com.br/2017/02/display-oled-colorido-arduino-hc-sr04.html
 - https://www.arduinoecia.com.br/2018/01/blynk-controlar-arduino-usando-bluetooth.html
 
 *** RASPBERRY PI ***
@@ -93,3 +90,6 @@ https://create.arduino.cc/
 *** https://create.arduino.cc/projecthub/liss/happy-birthday-melody-on-arduino-nano-with-3-way-polyphony-c80c31
 *** https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b
 *** https://create.arduino.cc/projecthub/Blue_jack/measure-your-reaction-time-d68f90
+
+U8glib for Arduino IDE
+https://bintray.com/olikraus/u8glib/Arduino
